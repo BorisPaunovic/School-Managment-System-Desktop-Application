@@ -1,0 +1,163 @@
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\School.exe.config
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\School.exe
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\School.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\Dapper.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\MetroFramework.Design.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\MetroFramework.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolBL.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolBL.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\source\repos\School-Zavrsni\School\bin\Debug\Dapper.xml
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmAddCountries.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmAddStudent.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmDashboard.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.frmLogIn.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmMain.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmSignUp.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmStudents.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmUpdateStudent.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.exe
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.frmAddCourses.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.CountriesForms.frmCountries.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.CountriesForms.frmUpdateCountry.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.CoursesForms.frmCourses.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.CoursesForms.frmUpdateCourses.resources
+C:\Users\Boris\source\repos\School-Zavrsni\School\obj\Debug\School.Forms.SubjectsForms.frmAddSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\School.exe.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\School.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\MetroFramework.Design.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\MetroFramework.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolBL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolBL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmAddCountries.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.CountriesForms.frmCountries.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.CountriesForms.frmUpdateCountry.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmAddCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.CoursesForms.frmCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.CoursesForms.frmUpdateCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmAddStudent.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmDashboard.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.TeachersForms.frmAddTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.TeachersForms.frmTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.TeachersForms.frmUpdateTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.frmLogIn.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmMain.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmSignUp.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmStudents.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.frmUpdateStudent.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.SubjectsForms.frmAddSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.SubjectsForms.frmSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Forms.SubjectsForms.frmUpdateSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\School\obj\Debug\School.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\School.exe.config
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\School.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\MetroFramework.Design.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\MetroFramework.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolBL.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolBL.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddCountries.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.CountriesForms.frmCountries.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.CountriesForms.frmUpdateCountry.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddCourses.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.CoursesForms.frmCourses.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.CoursesForms.frmUpdateCourses.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddStudent.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmDashboard.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmAddTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmUpdateTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.frmLogIn.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmMain.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmSignUp.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmStudents.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmUpdateStudent.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmAddSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmUpdateSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.UsersForms.frmUsers.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\School\obj\Debug\School.Forms.UsersForms.frmUpdateUser.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\School.exe.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\School.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\MetroFramework.Design.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\MetroFramework.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolBL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolModel.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolBL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\SchoolModel.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddCountries.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.CountriesForms.frmCountries.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.CountriesForms.frmUpdateCountry.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.CoursesForms.frmCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.CoursesForms.frmUpdateCourses.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmAddStudent.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmDashboard.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmAddTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.TeachersForms.frmUpdateTeachers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.frmLogIn.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmMain.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmSignUp.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmStudents.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.frmUpdateStudent.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmAddSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.SubjectsForms.frmUpdateSubjects.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.UsersForms.frmUpdateUser.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Forms.UsersForms.frmUsers.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.exe
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\School\obj\Debug\School.pdb

@@ -1,0 +1,48 @@
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\Dapper.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\bin\Debug\Dapper.xml
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolDAL\obj\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolDAL\obj\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\Dapper.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolModel.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\SchoolModel.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\bin\Debug\Dapper.xml
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolDAL\obj\Debug\SchoolDAL.pdb

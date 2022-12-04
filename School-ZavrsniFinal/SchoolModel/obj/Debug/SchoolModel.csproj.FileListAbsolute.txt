@@ -1,0 +1,6 @@
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\bin\Debug\SchoolModel.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\bin\Debug\SchoolModel.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\obj\Debug\SchoolModel.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\obj\Debug\SchoolModel.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\obj\Debug\SchoolModel.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni B+A\School-ZavrsniFinal\SchoolModel\obj\Debug\SchoolModel.csproj.AssemblyReference.cache

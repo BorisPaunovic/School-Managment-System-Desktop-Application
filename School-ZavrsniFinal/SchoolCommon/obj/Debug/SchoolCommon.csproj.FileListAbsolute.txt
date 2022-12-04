@@ -1,0 +1,16 @@
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\obj\Debug\SchoolCommon.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\obj\Debug\SchoolCommon.dll
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\obj\Debug\SchoolCommon.pdb
+C:\Users\Boris\source\repos\School-Zavrsni\SchoolCommon\obj\Debug\SchoolCommon.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolCommon\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolCommon\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolCommon\obj\Debug\SchoolCommon.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolCommon\obj\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-Zavrsni2.1\SchoolCommon\obj\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolCommon\bin\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolCommon\bin\Debug\SchoolCommon.pdb
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolCommon\obj\Debug\SchoolCommon.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolCommon\obj\Debug\SchoolCommon.dll
+C:\Users\Boris\Desktop\Programi\School-ZavrsniFinal\SchoolCommon\obj\Debug\SchoolCommon.pdb

@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A22073C3-FDC5-44E7-8C6B-8592C49DAFFE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>School</RootNamespace>
+    <AssemblyName>School</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Dapper.2.0.90\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\CountriesForms\frmCountries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CountriesForms\frmCountries.Designer.cs">
+      <DependentUpon>frmCountries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CountriesForms\frmUpdateCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CountriesForms\frmUpdateCountry.Designer.cs">
+      <DependentUpon>frmUpdateCountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmAddCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmAddCourses.Designer.cs">
+      <DependentUpon>frmAddCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmCourses.Designer.cs">
+      <DependentUpon>frmCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmUpdateCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CoursesForms\frmUpdateCourses.Designer.cs">
+      <DependentUpon>frmUpdateCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmAddStudent.Designer.cs">
+      <DependentUpon>frmAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CountriesForms\frmAddCountries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CountriesForms\frmAddCountries.Designer.cs">
+      <DependentUpon>frmAddCountries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmLogIn.Designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmSignUp.Designer.cs">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmStudents.Designer.cs">
+      <DependentUpon>frmStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmUpdateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentsForms\frmUpdateStudent.Designer.cs">
+      <DependentUpon>frmUpdateStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmAddSubjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmAddSubjects.Designer.cs">
+      <DependentUpon>frmAddSubjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmSubjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmSubjects.Designer.cs">
+      <DependentUpon>frmSubjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmUpdateSubjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubjectsForms\frmUpdateSubjects.Designer.cs">
+      <DependentUpon>frmUpdateSubjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmAddTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmAddTeachers.Designer.cs">
+      <DependentUpon>frmAddTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmTeachers.Designer.cs">
+      <DependentUpon>frmTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmUpdateTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TeachersForms\frmUpdateTeachers.Designer.cs">
+      <DependentUpon>frmUpdateTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmUpdateUser.Designer.cs">
+      <DependentUpon>frmUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersForms\frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings1.Designer.cs">
+      <DependentUpon>Settings1.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Forms\CountriesForms\frmAddCountries.resx">
+      <DependentUpon>frmAddCountries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CountriesForms\frmCountries.resx">
+      <DependentUpon>frmCountries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CountriesForms\frmUpdateCountry.resx">
+      <DependentUpon>frmUpdateCountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CoursesForms\frmAddCourses.resx">
+      <DependentUpon>frmAddCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CoursesForms\frmCourses.resx">
+      <DependentUpon>frmCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CoursesForms\frmUpdateCourses.resx">
+      <DependentUpon>frmUpdateCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StudentsForms\frmAddStudent.resx">
+      <DependentUpon>frmAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TeachersForms\frmAddTeachers.resx">
+      <DependentUpon>frmAddTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TeachersForms\frmTeachers.resx">
+      <DependentUpon>frmTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TeachersForms\frmUpdateTeachers.resx">
+      <DependentUpon>frmUpdateTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersForms\frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersForms\frmSignUp.resx">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StudentsForms\frmStudents.resx">
+      <DependentUpon>frmStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StudentsForms\frmUpdateStudent.resx">
+      <DependentUpon>frmUpdateStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubjectsForms\frmAddSubjects.resx">
+      <DependentUpon>frmAddSubjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubjectsForms\frmSubjects.resx">
+      <DependentUpon>frmSubjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubjectsForms\frmUpdateSubjects.resx">
+      <DependentUpon>frmUpdateSubjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersForms\frmUpdateUser.resx">
+      <DependentUpon>frmUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersForms\frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\SchoolModel.Countries.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.Courses.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.CoursesSubjects.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.StudentCourses.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.Students.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.StudentsResault.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.Subjects.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.Teachers.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.TeachersCourses.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.TeachersJoinCoursesResault.datasource" />
+    <None Include="Properties\DataSources\SchoolModel.Users.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolBL\SchoolBL.csproj">
+      <Project>{72744F92-4A2F-4175-BFA9-E536A6A4A769}</Project>
+      <Name>SchoolBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SchoolDAL\SchoolDAL.csproj">
+      <Project>{15117B08-4A6C-4582-BCB3-53CC19B2E076}</Project>
+      <Name>SchoolDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SchoolModel\SchoolModel.csproj">
+      <Project>{79BB201B-DAEC-44E7-BCB3-3402DB136F3C}</Project>
+      <Name>SchoolModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TextboxBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransparentHalfCircle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PasswordPic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogIn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransparentHalfCircle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SignUp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransparentLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TransparentLogo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pnlMenuBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboardbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coursesbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teachersbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudentsTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeachersTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SoursesTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddStudentTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteStudentTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddStudentTial1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteStudentTial1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdatestudentTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageedit_16_5363622926.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogIn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Countriespic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addCountry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete country.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update country.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Countries.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddCourses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteCourseTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update Course.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddCoursePanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteCoursePanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateCoursePanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subjects btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SubjectsTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddSubjectPanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete Subject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateSubject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTeacherTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteTeacherTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateTeacherTial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usersactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usersactive1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddCoursePanel2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
