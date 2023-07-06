@@ -44,7 +44,8 @@ School menagment sistem je aplikacija za lako rukovodjenje podacima jedne skole 
 Dva glavna dela SMS su baza podataka [slika 1]i sama aplikacija [slika 2].
 
 
-          Slika 1 - School menagment sistem/Dashboard
+          Slika 1 - School menagment sistem/Dashboard![image](https://github.com/BorisPaunovic/School-Zavrsni-B-A/assets/119711363/f4cfcd06-1ff4-40ee-b4ca-340daf5cf33c)
+
 
 
 
