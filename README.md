@@ -21,200 +21,122 @@
 
 
 
+School Management System - User Manual
 
-   School menagment sistem-Korisnicko uputstvo
+Table of Contents
 
+3...........................................................................Introduction
+4..............................................................Logging in to the application
+5........................................................Creating a new account
+6.............................................................Working with the application
+7....................................................................Viewing data
+8..........................................................................Entering data
+9............................................................................Deleting data
+10.......................................................................Updating data
+11............................................................................Database
 
-Sadrzaj
+Introduction
 
-3…………………………………………………………………………………………………Uvod
-4……………………………………………………………………………Logovanje na aplikaciju
-5…………………………………………………………………………....Kreiranje novog naloga
-6……………………………………………………………………………….…...Rad na aplikaciji
-7…………………………………………………………………………………..Pregled podataka
-8……………………………………………………………………………………...Unos podataka
-9…………………………………………………………………………………..Brisanje podataka
-10…………………………………………………………………..…………..Azuriranje podataka
-11………………………………………………………………………………….....Baza podataka
-Uvod
+The School Management System is an application designed to easily manage data for a school.
 
+The SMS consists of two main parts: the database [Figure 1] and the application itself [Figure 2].
 
-School menagment sistem je aplikacija za lako rukovodjenje podacima jedne skole .
+Figure 1 - School Management System/Dashboard
+image
 
-Dva glavna dela SMS su baza podataka [slika 1]i sama aplikacija [slika 2].
+Figure 2 - SMS Database Diagram
 
+Logging in to the application
 
-          Slika 1 - School menagment sistem/Dashboard![image](https://github.com/BorisPaunovic/School-Zavrsni-B-A/assets/119711363/f4cfcd06-1ff4-40ee-b4ca-340daf5cf33c)
+To use the SMS, you need to enter your username and password after launching the application [Figure 3].
 
+Figure 3 - Logging in to the application
 
+If the username and password are correct, you will be redirected to the main page of the application, called "Main."
 
+Creating a new account
 
-Slika 2 – SMS Database diagram
+If you are a new user or want to create a new account, click on the "Sign in" button at the bottom right of the login page [Figure 3].
 
+Figure 4 - New User Creation Page
 
+After filling in the necessary fields with the required information, you can create an account as an administrator (this will allow you to add, delete, and modify the admin privileges of other users).
 
-Logovanje na aplikaciju
+Once a new user account is created, log in to the application [Figure 3].
 
+Working with the application
 
+On the main page, you will see:
 
+    Quick menu - on the left side - with the names of commands you will use [Figure 5]:
+        Dashboard (Display all controls)
+        Courses (Display all courses)
+        Students (Display all students)
+        Teachers (Display all teachers)
+        Countries (Display all countries)
+        Subjects (Display all subjects within a course)
+        Users (Display all users / note: this command will not be displayed if you are not logged in as an administrator)
+    The open Dashboard page, which serves the same purpose as the quick menu [Figure 5]
 
-Da bi se SMS koristio potom pokretanja aplikacije  potrebno je uneti Username i password [slika3].
+Note: Working with the entire application and its data follows the same principles as in this example.
 
+Figure 5 - Main Page
 
+To enter, modify, or delete data, select an item from the quick menu or the Dashboard [Figure 6].
 
+Viewing data
 
+All data related to a specific topic is presented in a table at the bottom of the page [Figure 6].
+At the top of the page, there are controls for:
 
+    Entering data (top left)
+    Deleting data (top center)
+    Updating existing data from the list (top right)
+    Search bar with additional filters on the right side [Drop-down menu / Right above the list]
+    Refresh button and search button [Left above the list]
 
+Viewing data is done similar to using a standard browser, with the use of filters.
 
+Figure 6 - Data Management and Viewing Page
 
-                                               Slika 3 – Logovanje na aplikaciju
+Entering data
 
+Data entry is performed by clicking the "Add" button for the respective data type [Figure 6].
+This opens the data entry page [Figure 7].
+You need to fill in all the fields and then click the "Save" button at the bottom.
+If everything is entered correctly, you will receive a confirmation message.
+Otherwise, you will be notified of any missing or incorrect information [Figure 8].
 
+Figure 7 - New Data Entry Page
+Figure 8 - Error in data entry
 
+Deleting data
 
-U koliko su Username i password ispravni otvorice vam se Glavna stranica aplikacije „Main“.
+To delete data, select the item you want to delete from the list [Figure 6] and click the "Delete" button for the respective data type.
+A confirmation prompt will appear [Figure 9], and you must confirm the deletion if you are sure you want to delete something from the list.
 
+Figure 9 - Deletion Confirmation
 
+Updating data
 
+Updating data is done as follows:
 
+    Select the data from the table
+    Click the "Update" button for the respective data type [Figure 6]
+    This opens a new page for updating [Figure 10].
+    The process is similar to adding data:
+    Fill in the fields
+    Click the "Save" button
+    If the entered data is not correct, you will be notified [Figure 11].
 
+Figure 10 - Data Update
+Figure 11 - Error in data entry
 
+Database
 
+The database used in the SMS is Microsoft SQL, which is a relational database consisting of 9 tables [Figure 12].
 
-
-Kreiranje novog naloga
-
-
-
-U koliko ste novi korisnik ili zelite da napravite novi nalog potrebno je kliknuti na
- Sign in(Prijavi se) dugme -Dole desno na stranici za logovanje -[ Slika 3 ]
-
-
-
-
-
-
-
-
-
-                                  Slika 4 – Stranica za kreiranje novog korisnika
-
-Nakon popunjavanja neophodnih polja podacima moguce je kreirati nalog kao administrator ( Ovo ce vam dozvoliti da dodajete,brisete i menjate admin priviligije ostalih korisnika).
-
-Kada se novi korisnik bude kreirao potrebno je logovati se u aplikaciju[ Slika 3 ]
-
-
-
-
-
-
-
-      Rad na aplikaciji
-
- 
-Na glavnij stranici cete videti:
-1.
- Quick menu - sa leve strane - sa nazivima komandi koje cete da koristite[ slika 5 ] :
-      1.Dashboard (Prikaz svih kontroli)
-      2.Courses (Prikaz svih kurseva)
-      3.Students (Prikaz svih studenta)
-      4.Teachers (Prikaz svih Profesora)
-      5.Countries (Prikaz svih zemalja)
-      6.Subjects (Prikaz svih predmeta u okviru jednog kuirsa)
-      7.Users ( Prikaz svih korisnika / napomena: u koliko niste ulogovani kao administrator                ova koma nda vam nece biti prikazana) 
-2.Otvorenu stranicu Dashborad koja ima istu ulogu kao i quick menu[Slika 5]
-
-Napomena:Rad na celoj aplikaciji sa svim podacima je isti kao u ovom primeru.
-
-
-
-
-Slika 5 - Glavna stranica
-
-
-Za unos izmenu i brisanje podataka potrebno je izabrati stavku iz quick menu ili Dashboard[Slika 6].
-
-
-      Pregled podataka
-    
-                                       
-           
-Svi podaci vezani za odredjenu temu su predstavljeni u tabeli u dnu stranice[Slika 6]
-Na vrhu stranice su postavnjene kontrole za :
-   1.Unos podataka[Gore levo]
-   2.Brisanje podataka[Gore sredina]
-   3.Azuriranje postojecih podataka iz liste [Gore desno]
-   4.Linija za pretragu sa dodatim filterima na desnij strani [Drop down menu / Desno iznad        liste] 
-   5.Dugme za Osvezavanje liste i dugme za pretragu [Iznad liste levo]
-
-
-Pregled podataka se radi kao u standardnom browser-u uz koriscenje filtera .
-
-
-
-                                  Slika 6 – Stranica za rukovodjenje i pregled podataka
-
-
-
-
-
-
-
-       Unos  podataka                                   
- 
-
-Unos podata se vrsi kliktom na dugme add - Vrsta Podataka[Slika 6].
-Time se otvara stranica za unos podataka[Slikan  7].
-Potrebno je ispuniti sva polja . Nakon toga kliknuti dugme Sacuvaj-Save – na dnu.
-U koliko je sve ispravno dobicete potvrdnu poruku.
-U suprotnom izaci ce vam obavestenje da nesto niste ispunili kako treba[Slika 8]
-
-                                             Slika 7 - Strana za unos novih podataka
-                                                    Slika 8 – Greska u unosu
-                                    
-                                                       
-     Brisanje podataka     
-
-
-Za brisnje podataka je potrebno oznaciti sta zalite izbrisati iz liste [Slika 6] i kliknuti na Delete-Vrste podataka.
-Pojavice se potvrda o brisanju [Slika 9] koju morate potvrdti ako ste sigurni da zelite obrisati nesto is liste.
-
-
-
-
-
-
-
-
-
-Slika 9 - Potvrda o brisanju
-
-
-
-Azuriranje Podataka
-
-Azuriranje se vrsi na sledeci nacin:
-1.Izabrati podatak iz tabele
-2.Kliknuti dugme Update-vrsta podataka[Slika 6]
-Ovim se otvara nova stranica za Azuriranje[Slika 10]
-Postupak je slican kao na dodavanju podataka :
-1.Ispunjavanje polja 
-2.Klik na dugme sacuvaj-Save-
-U slucaju da podaci nisu ispravni prikazace se  obavestenje [Slika 11]
-                                              
-                                                 Slika 10-Azuriranje podataka
-                                                     
-                                                         Slika 11 - Greska u unosu
-
-                          Baza podataka
-
-Baza podataka koriscena u SMS je Microsoft SQL to je relaciona baza podataka koja se sastoji od 9 tabela [Slika 12]
-
-
-
-
-                                                  Slika 12- Baza podataka
-
+Figure 12 - Database
 
 
 
