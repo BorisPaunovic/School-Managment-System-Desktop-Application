@@ -1,4 +1,4 @@
-# School-Zavrsni-B-A
+# School-Managment-System-Desktop-Application
 
 
 
@@ -68,7 +68,7 @@ Working with the application
 
 On the main page, you will see:
 
-    Quick menu - on the left side - with the names of commands you will use [Figure 5]:
+    Quick menu - on the left side - with the names of commands you will use  :
         Dashboard (Display all controls)
         Courses (Display all courses)
         Students (Display all students)
@@ -76,17 +76,17 @@ On the main page, you will see:
         Countries (Display all countries)
         Subjects (Display all subjects within a course)
         Users (Display all users / note: this command will not be displayed if you are not logged in as an administrator)
-    The open Dashboard page, which serves the same purpose as the quick menu [Figure 5]
+    The open Dashboard page, which serves the same purpose as the quick menu  
 
 Note: Working with the entire application and its data follows the same principles as in this example.
 
-Figure 5 - Main Page
+ 
 
-To enter, modify, or delete data, select an item from the quick menu or the Dashboard [Figure 6].
+To enter, modify, or delete data, select an item from the quick menu or the Dashboard  .
 
 Viewing data
 
-All data related to a specific topic is presented in a table at the bottom of the page [Figure 6].
+All data related to a specific topic is presented in a table at the bottom of the page  .
 At the top of the page, there are controls for:
 
     Entering data (top left)
@@ -101,11 +101,11 @@ Figure 6 - Data Management and Viewing Page
 
 Entering data
 
-Data entry is performed by clicking the "Add" button for the respective data type [Figure 6].
-This opens the data entry page [Figure 7].
+Data entry is performed by clicking the "Add" button for the respective data type  .
+This opens the data entry page  .
 You need to fill in all the fields and then click the "Save" button at the bottom.
 If everything is entered correctly, you will receive a confirmation message.
-Otherwise, you will be notified of any missing or incorrect information [Figure 8].
+Otherwise, you will be notified of any missing or incorrect information  .
 
 Figure 7 - New Data Entry Page
 Figure 8 - Error in data entry
@@ -113,9 +113,9 @@ Figure 8 - Error in data entry
 Deleting data
 
 To delete data, select the item you want to delete from the list [Figure 6] and click the "Delete" button for the respective data type.
-A confirmation prompt will appear [Figure 9], and you must confirm the deletion if you are sure you want to delete something from the list.
+A confirmation prompt will appear  , and you must confirm the deletion if you are sure you want to delete something from the list.
 
-Figure 9 - Deletion Confirmation
+ 
 
 Updating data
 
@@ -129,14 +129,13 @@ Updating data is done as follows:
     Click the "Save" button
     If the entered data is not correct, you will be notified [Figure 11].
 
-Figure 10 - Data Update
-Figure 11 - Error in data entry
+ 
 
 Database
 
-The database used in the SMS is Microsoft SQL, which is a relational database consisting of 9 tables [Figure 12].
+The database used in the SMS is Microsoft SQL, which is a relational database consisting of 9 tables  .
 
-Figure 12 - Database
+ 
 
 
 
