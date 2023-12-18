@@ -1,6 +1,7 @@
 # School Management System - Desktop Application
 
-## Build and Run Instructions
+## Build and Run Instructions![0](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/098d7ef4-c392-4885-9f73-9076b2ee4ed8)
+
 
 ### Prerequisites
 
