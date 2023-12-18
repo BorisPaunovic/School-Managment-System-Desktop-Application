@@ -1,143 +1,125 @@
-# School-Managment-System-Desktop-Application
+# School Management System - Desktop Application
 
+## Build and Run Instructions
 
+### Prerequisites
 
+Before you begin, ensure you have the following prerequisites installed:
 
+- [Visual Studio](https://visualstudio.microsoft.com/): The project is developed using C# with the .NET Framework.
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Required for the database component.
 
+### Clone the Repository
 
+```bash
+git clone https://github.com/your-username/School-Managment-System-Desktop-Application.git
+```
+## Build the Solution
+Visual Studio
 
+    Open the project in Visual Studio.
+    Build the solution by pressing Ctrl + Shift + B or navigating to Build > Build Solution in the menu.
 
+CMD Alternative
+```
+cd path/to/your/project
+msbuild /t:build
+```
+## Configure Database Connection
+  ### Visual Studio
+   1. Open the project in Visual Studio.
+   2. Navigate to the App.config file in the project.
+   3. Locate the connection string and modify it according to your SQL Server configuration.
+```
+<connectionStrings>
+    <add name="YourConnectionStringName" connectionString="Data Source=YourServer;Initial Catalog=YourDatabase;Integrated Security=True;" providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+### CMD Alternative
 
+Use your preferred text editor to edit the App.config file.
 
+```
+notepad path/to/your/project/App.config
+```
+## Run the Application
+### Visual Studio
+  1. Set the startup project to the main application.
+  2. Press F5 or select Debug > Start Debugging from the menu.
 
+### CMD Alternative
 
+Navigate to the project's executable directory and run the application.
 
+```
+cd path/to/your/project/bin/Debug
+YourApplicationName.exe
+```
+## Access the Application
 
+Once the application is running, log in with your credentials and start using the School Management System directly within the application.
 
+# User Manual
 
+The School Management System is a comprehensive application designed to streamline school data management. This repository contains the source code for a desktop application developed in C# using the .NET Framework. The system consists of two main components: the database (Microsoft SQL) and the desktop application itself.
 
+##School Management System/Dashboard
 
+Figure 1 - School Management System/Dashboard image
 
-
-
-
-School Management System - User Manual
-
-Table of Contents
-
-3...........................................................................Introduction
-4..............................................................Logging in to the application
-5........................................................Creating a new account
-6.............................................................Working with the application
-7....................................................................Viewing data
-8..........................................................................Entering data
-9............................................................................Deleting data
-10.......................................................................Updating data
-11............................................................................Database
-
-Introduction
-
-The School Management System is an application designed to easily manage data for a school.
-
-The SMS consists of two main parts: the database [Figure 1] and the application itself [Figure 2].
-
-Figure 1 - School Management System/Dashboard
-image
+SMS Database Diagram
 
 Figure 2 - SMS Database Diagram
+Logging in to the Application
 
-Logging in to the application
+To access the School Management System, launch the application and enter your username and password on the login page.
 
-To use the SMS, you need to enter your username and password after launching the application [Figure 3].
+##Logging in to the application
 
 Figure 3 - Logging in to the application
 
-If the username and password are correct, you will be redirected to the main page of the application, called "Main."
+Upon successful login, you will be redirected to the main page, known as "Main."
+Creating a New Account
 
-Creating a new account
+New users can create an account by clicking the "Sign in" button on the login page.
 
-If you are a new user or want to create a new account, click on the "Sign in" button at the bottom right of the login page [Figure 3].
+New User Creation Page
 
 Figure 4 - New User Creation Page
 
-After filling in the necessary fields with the required information, you can create an account as an administrator (this will allow you to add, delete, and modify the admin privileges of other users).
+Fill in the required information to create an account, and choose the option to be an administrator if needed. Afterward, log in to the application.
+Working with the Application
 
-Once a new user account is created, log in to the application [Figure 3].
+The main page provides a quick menu on the left side, displaying commands such as Dashboard, Courses, Students, Teachers, Countries, Subjects, and Users (visible only for administrators). The Dashboard page serves the same purpose.
 
-Working with the application
+##Main Page
 
-On the main page, you will see:
+Figure 5 - Main Page
+Viewing Data
 
-    Quick menu - on the left side - with the names of commands you will use  :
-        Dashboard (Display all controls)
-        Courses (Display all courses)
-        Students (Display all students)
-        Teachers (Display all teachers)
-        Countries (Display all countries)
-        Subjects (Display all subjects within a course)
-        Users (Display all users / note: this command will not be displayed if you are not logged in as an administrator)
-    The open Dashboard page, which serves the same purpose as the quick menu  
+Data related to specific topics is presented in tables at the bottom of the page. Controls for entering, deleting, and updating data are available at the top. A search bar with filters enhances the data viewing experience.
 
-Note: Working with the entire application and its data follows the same principles as in this example.
-
- 
-
-To enter, modify, or delete data, select an item from the quick menu or the Dashboard  .
-
-Viewing data
-
-All data related to a specific topic is presented in a table at the bottom of the page  .
-At the top of the page, there are controls for:
-
-    Entering data (top left)
-    Deleting data (top center)
-    Updating existing data from the list (top right)
-    Search bar with additional filters on the right side [Drop-down menu / Right above the list]
-    Refresh button and search button [Left above the list]
-
-Viewing data is done similar to using a standard browser, with the use of filters.
+Data Management and Viewing Page
 
 Figure 6 - Data Management and Viewing Page
+Entering Data
 
-Entering data
+To add new data, click the "Add" button for the respective data type. Fill in all required fields on the data entry page and click "Save." Confirmation or error messages will guide you.
 
-Data entry is performed by clicking the "Add" button for the respective data type  .
-This opens the data entry page  .
-You need to fill in all the fields and then click the "Save" button at the bottom.
-If everything is entered correctly, you will receive a confirmation message.
-Otherwise, you will be notified of any missing or incorrect information  .
+New Data Entry Page
 
 Figure 7 - New Data Entry Page
-Figure 8 - Error in data entry
+Deleting Data
 
-Deleting data
+Select the item to delete from the list and click the "Delete" button for the respective data type. Confirm the deletion when prompted.
+Updating Data
 
-To delete data, select the item you want to delete from the list [Figure 6] and click the "Delete" button for the respective data type.
-A confirmation prompt will appear  , and you must confirm the deletion if you are sure you want to delete something from the list.
-
- 
-
-Updating data
-
-Updating data is done as follows:
-
-    Select the data from the table
-    Click the "Update" button for the respective data type [Figure 6]
-    This opens a new page for updating [Figure 10].
-    The process is similar to adding data:
-    Fill in the fields
-    Click the "Save" button
-    If the entered data is not correct, you will be notified [Figure 11].
-
- 
-
+Updating data involves selecting the item from the table, clicking the "Update" button, and modifying the fields on the update page. Save the changes, and error notifications will guide you if needed.
 Database
 
-The database used in the SMS is Microsoft SQL, which is a relational database consisting of 9 tables  .
+The School Management System utilizes Microsoft SQL as its relational database, comprising nine tables for efficient data organization.
 
- 
+For more information, refer to the detailed Database Documentation.
+Issues and Contributions
 
-
-
-
-
+If you encounter any issues or would like to contribute, please open an issue or fork the repository and submit a pull request.
