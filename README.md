@@ -175,7 +175,7 @@ The School Management System utilizes Microsoft SQL as its relational database, 
 SMS Database Diagram
 
 ![1](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/f61bd198-60d3-4601-894f-2a8ceb6e1ae3)
-<div style="display:flex ; justify-content:center">
+<div style="display: flex; justify-content: center;">
    <img src="https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/f61bd198-60d3-4601-894f-2a8ceb6e1ae3">
 </div>
 Figure 8 - SMS Database Diagram
