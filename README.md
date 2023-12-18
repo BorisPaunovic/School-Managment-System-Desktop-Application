@@ -15,7 +15,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/School-Managment-System-Desktop-Application.git
+git clone  https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application.git
 ```
 ## Build the Solution
 ### Visual Studio
@@ -25,7 +25,7 @@ git clone https://github.com/your-username/School-Managment-System-Desktop-Appli
 
 ### CMD Alternative
 ```
-cd path/to/your/project
+cd ../School-ZavrsniFinal/School/Program.cs
 
 # Build the solution
 dotnet build
@@ -60,7 +60,7 @@ dotnet run
 Use your preferred text editor to edit the Settings1.settings file.
 
 ```
-notepad path/to/your/project/Settings1.settings
+notepad ../School-ZavrsniFinal/School/Settings1.settings
 ```
 ## Run the Application
 ### Visual Studio
@@ -72,14 +72,14 @@ notepad path/to/your/project/Settings1.settings
 Navigate to the project's executable directory and run the application.
 
 ```
-cd path/to/your/project/bin/Debug
-YourApplicationName.exe
+cd ../School-ZavrsniFinal/School/obj/Debug
+ School.exe
 
 ///////////////
 OR
 //////////////
 
-cd path/to/your/project
+cd ../School-ZavrsniFinal/School
 
 # Build the solution
 dotnet build
@@ -109,12 +109,11 @@ To access the School Management System, launch the application and enter your us
 
 Figure 1 - Logging in to the application
 
-Upon successful login, you will be redirected to the main page, known as "Main."
-Creating a New Account
+Upon successful login, you will be redirected to the main page, known as "Main/Dashboard."
+## Creating a New Account
 
 New users can create an account by clicking the "Sign in" button on the login page.
-
-## New User Creation Page
+ 
 
 
 ![6](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/b4de88e3-653f-401b-9f60-e29d27551ed9)
@@ -147,7 +146,7 @@ Figure 4 - Data Management and Viewing Page
 
 To add new data, click the "Add" button for the respective data type. Fill in all required fields on the data entry page and click "Save." Confirmation or error messages will guide you.
 
-New Data Entry Page
+ 
 
 
 ![9](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/45b9b2a6-c814-405e-b317-696594fb5900)
