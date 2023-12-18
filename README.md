@@ -166,9 +166,16 @@ Figure 7 - New Data Entry Page
 
 Select the item to delete from the list and click the "Delete" button for the respective data type. Confirm the deletion when prompted.
 
+![13](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/d67c3983-2f29-43ca-9ebd-616746281d19)
+
+Figure 8 -Delete entry prompt
 ## Updating Data
 
 Updating data involves selecting the item from the table, clicking the "Update" button, and modifying the fields on the update page. Save the changes, and error notifications will guide you if needed.
+
+![14](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/6c397dde-6241-4c1b-8749-3090f814366e)
+
+Figure 10 -   Data Updating Page
 
 ## Database
 
