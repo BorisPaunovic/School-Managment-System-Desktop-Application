@@ -1,7 +1,9 @@
 # School Management System - Desktop Application
 
-## Build and Run Instructions![0](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/098d7ef4-c392-4885-9f73-9076b2ee4ed8)
 
+![0](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/098d7ef4-c392-4885-9f73-9076b2ee4ed8)
+
+## Build and Run Instructions
 
 ### Prerequisites
 
@@ -95,9 +97,13 @@ The School Management System is a comprehensive application designed to streamli
 
 ## School Management System/Dashboard
 
+![2](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/4786020b-44d6-4e13-a6cd-5c79014761fd)
+
 Figure 1 - School Management System/Dashboard image
 
 SMS Database Diagram
+
+![1](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/f61bd198-60d3-4601-894f-2a8ceb6e1ae3)
 
 Figure 2 - SMS Database Diagram
 
@@ -105,6 +111,7 @@ Figure 2 - SMS Database Diagram
 
 To access the School Management System, launch the application and enter your username and password on the login page.
 
+![4](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/bb91d1fe-f660-42a5-967d-a4c6a7f47e7a)
 
 
 Figure 3 - Logging in to the application
@@ -116,6 +123,9 @@ New users can create an account by clicking the "Sign in" button on the login pa
 
 ## New User Creation Page
 
+
+![6](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/b4de88e3-653f-401b-9f60-e29d27551ed9)
+
 Figure 4 - New User Creation Page
 
 Fill in the required information to create an account, and choose the option to be an administrator if needed. Afterward, log in to the application.
@@ -126,6 +136,8 @@ The main page provides a quick menu on the left side, displaying commands such a
 
 ## Main Page
 
+![7](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/8a17dc86-338f-4d97-a2f5-40c2b73599cd)
+
 Figure 5 - Main Page
 
 ## Viewing Data
@@ -133,6 +145,8 @@ Figure 5 - Main Page
 Data related to specific topics is presented in tables at the bottom of the page. Controls for entering, deleting, and updating data are available at the top. A search bar with filters enhances the data viewing experience.
 
 ## Data Management and Viewing Page
+![8](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/302cc6f6-087f-4728-83e1-f9b749f54cc7)
+
 
 Figure 6 - Data Management and Viewing Page
 
@@ -141,6 +155,10 @@ Figure 6 - Data Management and Viewing Page
 To add new data, click the "Add" button for the respective data type. Fill in all required fields on the data entry page and click "Save." Confirmation or error messages will guide you.
 
 New Data Entry Page
+
+
+![9](https://github.com/BorisPaunovic/School-Managment-System-Desktop-Application/assets/119711363/45b9b2a6-c814-405e-b317-696594fb5900)
+
 
 Figure 7 - New Data Entry Page
 
